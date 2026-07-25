@@ -14,7 +14,7 @@
 - Data Analysis: `Pandas`, `Matplotlib`
 - Version Control: `Git`, `GitHub`
 - Debugging & Problem Solving
-- Legacy Systems: `Turbo C++`, `Visual studio code `
+- Legacy Systems: `Turbo C++`, `Visual studio code `,`Leetcode`
 
 ---
 
